@@ -107,7 +107,7 @@ function App() {
                 data-aos="zoom-in-right"
                 className="container mx-auto text-lg font-semibold text-primary-dark px-2"
               >
-                <h4 className="ml-11 lg:ml-0 pl-16">Quem Sou</h4>
+                <h4 className="ml-11 lg:ml-16">Quem Sou</h4>
               </div>
             </div>
 
