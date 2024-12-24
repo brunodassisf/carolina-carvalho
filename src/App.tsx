@@ -101,7 +101,7 @@ function App() {
           </div>
         </div>
         <Element name="Ínicio">
-          <section className="h-full lg:h-screen border-l-[40px] border-primary-normal pt-24">
+          <section className="h-full pb-20 border-l-[40px] border-primary-normal pt-24">
             <div className="bg-primary-medium py-2 ">
               <div
                 data-aos="zoom-in-right"
@@ -122,7 +122,7 @@ function App() {
               </div>
               <div
                 data-aos="zoom-in"
-                className="text-primary-normal max-w-xl pl-4 mt-10 lg:pl-0 lg:mt-0 mb-10 lg:mb-0"
+                className="text-primary-normal max-w-xl pl-4 mt-10 lg:pl-0 lg:mt-0"
               >
                 <p className="mb-4">
                   Me chamo Carolina Carvalho, sou estudante de publicidade e
