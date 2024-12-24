@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Bentham";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(assets/fonts/Bentham-Regular.ttf) format("TrueType");
+  }
+
+  html,
+  body,
+  #root,
+  main {
+    @apply h-full bg-primary-light;
+  }
+}
